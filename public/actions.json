@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "pathPattern": "/api/actions/quiz/question",
+      "apiPath": "/blinker"
+    }
+  ]
+}
